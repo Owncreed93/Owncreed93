@@ -9,6 +9,7 @@ My name is Christian Tarifeño, I'm a Software Developer from Peru. I live in Li
 
 * Critical thinking, decision making, problem solving and time management.
 * Software development using best practices and SOLID Principles.
+* Automated testing for software quality assurance
 * Use of Git and remote repositories.
 * Using Docker for standarize project's technologies and versioning.
 
