@@ -24,4 +24,4 @@ databases = [ {'id': 1, 'name': 'MySql'}, {'id': 2, 'name': 'Mongo'}, {'id': 3, 
 ```
 
 ## You can find me here: 🏢
-- [LinkedIn](https://www.linkedin.com/in/christian-gerson-tarife%C3%B1o-ramirez-748109252/)
+- [LinkedIn](https://www.linkedin.com/in/christarifer/)
